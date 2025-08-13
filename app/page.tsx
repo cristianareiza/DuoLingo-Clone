@@ -3,7 +3,7 @@
 export default function Home() {
   return (
    <div>
-    <p>hello Lingo</p>
+    <p className="text-green-500">hello Lingo</p>
    </div>
   );
 }
